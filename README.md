@@ -15,4 +15,5 @@ About me:
 - 💬 Ask me about NLP/ML/any recent news
 - 📫 How to reach me: connect@gitlostmurali.com or kmanoharmurali@gmail.com
 
+![Twitter Follow](https://img.shields.io/twitter/follow/gitlostmurali?style=social)
 [![HitCount](http://hits.dwyl.com/gitlost-murali/gitlost-murali.svg)](http://hits.dwyl.com/gitlost-murali/gitlost-murali)
