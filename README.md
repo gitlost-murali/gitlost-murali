@@ -14,3 +14,5 @@ About me:
 - 🌱 I promised that I'd dedicate this year(Aug 2020 - 21) to be better at Software Engineering practices, Kubernetes & Blogging.
 - 💬 Ask me about NLP/ML/any recent news
 - 📫 How to reach me: connect@gitlostmurali.com or kmanoharmurali@gmail.com
+
+[![HitCount](http://hits.dwyl.com/gitlost-murali/gitlost-murali.svg)](http://hits.dwyl.com/gitlost-murali/gitlost-murali)
