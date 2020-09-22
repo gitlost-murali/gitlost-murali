@@ -18,3 +18,5 @@ About me:
 ![Twitter Follow](https://img.shields.io/twitter/follow/gitlostmurali?style=social)
 ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Fgitlost-murali%2Fgitlost-murali)
 [![last learned](https://img.shields.io/github/last-commit/gitlost-murali/one_percent?label=last%20learned&style=plastic)](https://github.com/gitlost-murali/one_percent)
+[![last written](https://img.shields.io/github/last-commit/gitlost-murali/blogs?label=last%20written&style=plastic)](https://gitlost-murali.github.io/blogs/)
+
