@@ -16,3 +16,4 @@ About me:
 - 📫 How to reach me: connect@gitlostmurali.com or kmanoharmurali@gmail.com
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/gitlostmurali?style=social)
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Fgitlost-murali%2Fgitlost-murali)
