@@ -11,7 +11,7 @@ My crossovers are
 About me:
 
 - 🔭 I’m currently building an open-source tool to leverage recent advances in NLP for data labelling, augmentation.
-- 🌱 I dedicate this year(Aug 2020 - 21) to be an End-to-End Data Scientist good at Software Engineering practices, Kubernetes & Blogging.
+- 🌱 I dedicate this year(Aug 2020 - 21) to be an End-to-End Data Scientist, good at Software Engineering practices, MLOps(Kubernetes, etc) & Blogging.
 - 💬 Ask me about NLP/ML/any recent news
 - 📫 How to reach me: connect@gitlostmurali.com or kmanoharmurali@gmail.com
 
