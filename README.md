@@ -11,8 +11,10 @@ My crossovers are
 
 About me:
 
-- 🌱 I dedicate this year(Aug 2020 - 21) to be an End-to-End Data Scientist, good at Software Engineering practices, MLOps(Kubernetes, etc) & Blogging.
-- 💬 Ask me about NLP/ML/any recent news
+- 🔭 T-shaped engineer.
+- 🔭 Currently working on a deidentification project in Healthcare.
+- 🌱 I dedicate this year(Aug 2020 - 21) to be an End-to-End Data Scientist, good at Software Engineering practices, MLOps(Kubernetes, etc) & [Blogging](https://gitlost-murali.github.io/blogs/).
+- 💬 Ask me about NLP/ML/any recent news.
 - 📫 How to reach me: connect@gitlostmurali.com or kmanoharmurali@gmail.com
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/gitlostmurali?style=social)
