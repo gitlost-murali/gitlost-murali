@@ -15,7 +15,7 @@ About me:
 - 🔭 Data Scientist with research interests in NLP. _Currently working on a deidentification project in Healthcare. Always interested in improving under-resource setting._
 - 🌱 I dedicate this year(Aug 2020 - 21) to be an End-to-End Data Scientist, good at Software Engineering practices, MLOps(Kubernetes, etc) & [Blogging](https://gitlost-murali.github.io/blogs/).
 - 💬 Ask me about NLP/ML/any recent news.
-- 📫 How to reach me: connect@gitlostmurali.com or kmanoharmurali@gmail.com
+- 📫 How to reach me: kmanoharmurali@gmail.com
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/gitlostmurali?style=social)
 ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Fgitlost-murali%2Fgitlost-murali)
