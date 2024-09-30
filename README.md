@@ -11,9 +11,11 @@ My crossovers are
 
 About me:
 
-- T-shaped engineer. _Deployed a highly scalable ML application that helps ecologists in detecting bird migration patterns. Scalable upto 400 nodes._ 
+- T-shaped ML engineer. _Deployed a highly scalable ML application that helps ecologists in detecting bird migration patterns. Scalable upto 400 nodes._ 
 - 🔭 Data Scientist with research interests in NLP. _Worked on a deidentification project in Healthcare. Explored different augmentation & annotation techniques to smoothen the process. Always interested in improving under-resource setting._
-- 🌱 I dedicate this year(Jan 2022 - 23) to be an End-to-End Data Scientist, good at Software Engineering practices, System Design, MLOps(Kubernetes, etc) & [Blogging](https://gitlost-murali.github.io/blogs/).
+<!--- - 🚀 Optimized a 20B parameter model-->
+<!--- - 🌱 I dedicate this year(Sep 2024 - 25) to be an End-to-End Data Scientist, good at Software Engineering practices, System Design, MLOps(Kubernetes, etc) & [Blogging](https://gitlost-murali.github.io/blogs/).-->
+- 🌱 I dedicate this year(Sep 2024 - 25) to dive deep into core neural network concepts like Writing Custom Kernels, Implementing models in performance heavy languages like Rust, (well learning Rust along the way) & [Blogging](https://gitlost-murali.github.io/blogs/).
 - 💬 Ask me about NLP/ML/any recent news.
 - 📫 How to reach me: kmanoharmurali@gmail.com
 
